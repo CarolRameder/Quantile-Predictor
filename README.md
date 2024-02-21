@@ -1,6 +1,7 @@
 # Quantile-Predictor
 
-The data in imputation_test.csv consists of data on household electricity consumption.
+The implementation of this project, with the figures and details about the code, metrics and reasoning, is in the Notebook file.
+The data in imputation_test.csv consists of data on household electricity consumption and can be unzipped for experiment reproduction.
 
 The variables are as follows:
 - hh-id: unique household id
